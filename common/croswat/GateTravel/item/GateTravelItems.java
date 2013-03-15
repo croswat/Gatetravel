@@ -1,4 +1,4 @@
-package GateTravel.item;
+package croswat.GateTravel.item;
 
 public class GateTravelItems {
 	public static void init()

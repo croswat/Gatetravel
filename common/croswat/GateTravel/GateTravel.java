@@ -1,6 +1,6 @@
 package croswat.GateTravel;
 
-import GateTravel.item.GateTravelItems;
+import croswat.GateTravel.item.GateTravelItems;
 import croswat.GateTravel.block.GateTravelBlocks;
 import croswat.GateTravel.core.GatesWorldGen;
 import croswat.GateTravel.core.proxy.CommonProxy;
